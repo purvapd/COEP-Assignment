@@ -27,24 +27,24 @@ forward, such as madam, racecar.
 
 ### Run the program.
 
-VSK@DESKTOP-8LMS4JT MINGW64 ~
+    VSK@DESKTOP-8LMS4JT MINGW64 ~
 
-$ gcc palindrome.c -o palindrome
+    $ gcc palindrome.c -o palindrome
 
-VSK@DESKTOP-8LMS4JT MINGW64 ~
+    VSK@DESKTOP-8LMS4JT MINGW64 ~
 
-$ ./palindrome
+    $ ./palindrome
 
-Enter a string: purva
+    Enter a string: purva
 
-purva is not a palindrome.
+    purva is not a palindrome.
 
-VSK@DESKTOP-8LMS4JT MINGW64 ~
+    VSK@DESKTOP-8LMS4JT MINGW64 ~
 
-$ ./palindrome
+    $ ./palindrome
 
-Enter a string: racecar
+    Enter a string: racecar
 
-racecar is a palindrome.
+    racecar is a palindrome.
 
 
