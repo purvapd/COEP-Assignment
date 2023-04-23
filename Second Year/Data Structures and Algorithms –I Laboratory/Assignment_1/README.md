@@ -6,15 +6,16 @@ Write a program to print a histogram of the frequencies of different characters 
 
 ### Code_1 :- histogram.c
     
-    This program is implemented in the C programming language using Data Structures and Algorithms concepts :For loop. It takes input from the user as a string 
-    of characters and creates a histogram of the frequencies of each character in the input string.
+    This program is implemented in the C programming language using Data Structures and Algorithms concepts :For loop. 
+    It takes input from the user as a string of characters and creates a histogram of the frequencies of each 
+    character in the input string.
 
   
 
 ### Code_2 :- histogram_1.c
 
-    This program is implemented in the C programming language using Data Structures and Algorithms concepts :hash table. It takes input from the user as a string 
-    of characters and creates a histogram of the frequencies of each character in the input string.
+    This program is implemented in the C programming language using Data Structures and Algorithms concepts :hash table. 
+    It takes input from the user as a string of characters and creates a histogram of the frequencies of each character in the input string.
 
 
 ### Run the program.
