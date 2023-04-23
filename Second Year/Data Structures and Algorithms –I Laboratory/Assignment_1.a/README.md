@@ -22,45 +22,45 @@ Write a program to print a histogram of the frequencies of different characters 
 
 ### Run the program.
 
-VSK@DESKTOP-8LMS4JT MINGW64 ~
+    VSK@DESKTOP-8LMS4JT MINGW64 ~
 
-$ gcc histogram.c -o histogram
+    $ gcc histogram.c -o histogram
 
-VSK@DESKTOP-8LMS4JT MINGW64 ~
+    VSK@DESKTOP-8LMS4JT MINGW64 ~
 
-$ ./histogram
+    $ ./histogram
 
-Coep College of Engineering Pune
+    Coep College of Engineering Pune
 
-Histogram of character frequencies:
+    Histogram of character frequencies:
 
-: * 
+    : * 
 
- : ****
- 
-C: **
+     : ****
 
-E: *
+    C: **
 
-P: *
+    E: *
 
-e: ******
+    P: *
 
-f: *
+    e: ******
 
-g: ***
+    f: *
 
-i: **
+    g: ***
 
-l: **
+    i: **
 
-n: ****
+    l: **
 
-o: ***
+    n: ****
 
-p: *
+    o: ***
 
-r: *
+    p: *
 
-u: *
+    r: *
+
+    u: *
 
