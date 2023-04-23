@@ -21,15 +21,15 @@ input number is 7654, output should be 7 + 6 + 5 + 4 = 22.
 
 ### Run the program.
 
-VSK@DESKTOP-8LMS4JT MINGW64 ~
+    VSK@DESKTOP-8LMS4JT MINGW64 ~
 
-$ gcc sum_of_digit.c -o sum_of_digit
+    $ gcc sum_of_digit.c -o sum_of_digit
 
-VSK@DESKTOP-8LMS4JT MINGW64 ~
+    VSK@DESKTOP-8LMS4JT MINGW64 ~
 
-$ ./sum_of_digit
+    $ ./sum_of_digit
 
-Enter a number: 7654
+    Enter a number: 7654
 
-The sum of the digits of the number is 22
+    The sum of the digits of the number is 22
 
