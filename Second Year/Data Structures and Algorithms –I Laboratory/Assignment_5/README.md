@@ -17,15 +17,15 @@ and practically observed.
 
 ### Run the program.
 
-  VSK@DESKTOP-8LMS4JT MINGW64 ~
-  
-  $ gcc data.c -o data
+      VSK@DESKTOP-8LMS4JT MINGW64 ~
 
-  VSK@DESKTOP-8LMS4JT MINGW64 ~
-  
-  $ ./data
-  
-  Data files generated successfully!
+      $ gcc data.c -o data
+
+      VSK@DESKTOP-8LMS4JT MINGW64 ~
+
+      $ ./data
+
+      Data files generated successfully!
   
   --------------------------------------------------------------------------------------------------------------------
 
