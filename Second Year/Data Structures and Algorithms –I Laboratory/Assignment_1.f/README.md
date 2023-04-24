@@ -18,15 +18,15 @@ Example “ THIs Is a C Program” changes to “thiSiS A c pROGRAM”
 
   
 ### Run the program.
-  
-  VSK@DESKTOP-8LMS4JT MINGW64 ~
-  
-  $ gcc change_case.c -o change_case
 
-  VSK@DESKTOP-8LMS4JT MINGW64 ~
-  
-  $ ./change_case
-  
-  Enter a string: THIs Is a C Program
-  
-  Modified string: thiS iS A c pROGRAM
+      VSK@DESKTOP-8LMS4JT MINGW64 ~
+
+      $ gcc change_case.c -o change_case
+
+      VSK@DESKTOP-8LMS4JT MINGW64 ~
+
+      $ ./change_case
+
+      Enter a string: THIs Is a C Program
+
+      Modified string: thiS iS A c pROGRAM
