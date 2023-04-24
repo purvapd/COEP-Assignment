@@ -7,7 +7,7 @@ Write a program to remove duplicate doubles from an array of doubles. In the pro
 a function which accepts an array of doubles and removes the duplicates from the array and 
 has return type void
 
-### Code_1 :- histogram.c
+### Code_1 :- array.c
     
     This C program takes an array of doubles as input from the user and removes any duplicate values 
     from the array using a nested loop. The remove_duplicates() function shifts all the elements after a duplicate value 
