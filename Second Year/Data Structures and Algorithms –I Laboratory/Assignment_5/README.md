@@ -1,5 +1,5 @@
 
-# Assignment_1.a
+# Assignment_5
 
 ## Problem Statement:-
 
@@ -31,7 +31,7 @@ and practically observed.
 
 ### Code_2 :- insertion.c
 
-    Here's an example C program that implements the Insertion Sort algorithm and measures the time taken to sort each data file:
+Here's an example C program that implements the Insertion Sort algorithm and measures the time taken to sort each data file:
 
 
 ### Run the program.
@@ -53,7 +53,7 @@ and practically observed.
 
 ### Code_3 :- quick.c
 
-    Here's an example C program that implements the Quick Sort algorithm and measures the time taken to sort each data file:
+Here's an example C program that implements the Quick Sort algorithm and measures the time taken to sort each data file:
 
 
 ### Run the program.
