@@ -7,13 +7,18 @@ Write a program in C to define a structure for a Customer bank account that hold
 information like Account Number, Name of account holder, balance, internet banking
 facility availed(Yes or No), Pin code (422001 to 422013), Account type(saving,
 recurring, deposit).
+
 i. Read account details for N customers
+
 ii. Classify the customer as Golden, Silver and General based on the following
 criteria: Golden customers: Balance> 10, 00000, Silver Customers: Balance
 >500000 and <500000, General customers: Balance <500000
+>
 iii. Display the list of customers availing the Internet banking facility.
+
 iv. Display the customers belonging to a particular geographical location depending
 on postal code.
+
 v. Display the customer list as per their account type
 
 
