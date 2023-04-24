@@ -22,7 +22,7 @@ on postal code.
 v. Display the customer list as per their account type
 
 
-### Code :- palindrome.c
+### Code :- customer_bank_data.c
     
    The program first defines the structure for the Customer bank account, with the required fields. 
    It then reads account details for N customers, stores them in an array of customer structures.
