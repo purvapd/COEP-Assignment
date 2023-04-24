@@ -18,11 +18,15 @@ and practically observed.
 ### Run the program.
 
   VSK@DESKTOP-8LMS4JT MINGW64 ~
+  
   $ gcc data.c -o data
 
   VSK@DESKTOP-8LMS4JT MINGW64 ~
+  
   $ ./data
+  
   Data files generated successfully!
+  
   --------------------------------------------------------------------------------------------------------------------
 
 ### Code_2 :- insertion.c
@@ -33,11 +37,15 @@ and practically observed.
 ### Run the program.
     
     VSK@DESKTOP-8LMS4JT MINGW64 ~
+    
     $ gcc insertion.c -o insertion
 
     VSK@DESKTOP-8LMS4JT MINGW64 ~
+    
     $ ./insertion
+    
     Time taken to sort 10000 integers using Insertion Sort: 0.046000 seconds
+    
     Time taken to sort 100000 integers using Insertion Sort: 6.937000 seconds
 
 
@@ -51,10 +59,14 @@ and practically observed.
 ### Run the program.
 
     VSK@DESKTOP-8LMS4JT MINGW64 ~
+    
     $ gcc quick.c -o quick
 
     VSK@DESKTOP-8LMS4JT MINGW64 ~
+    
     $ ./quick
+    
     Time taken to sort 10000 integers using Quick Sort: 0.000000 seconds
+    
     Time taken to sort 100000 integers using Quick Sort: 0.015000 seconds
 
