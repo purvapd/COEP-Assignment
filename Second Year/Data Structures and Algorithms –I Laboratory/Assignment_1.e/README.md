@@ -18,17 +18,17 @@ string s.
   
 ### Run the program.
 
-   VSK@DESKTOP-8LMS4JT MINGW64 ~
-   
-   $ gcc squeeze.c -o squeeze
+      VSK@DESKTOP-8LMS4JT MINGW64 ~
 
-  
-  VSK@DESKTOP-8LMS4JT MINGW64 ~
-  
-  $ ./squeeze
-  
-  Original string: Hello, world!
-  
-  Squeezed string: Hell, wrld!
+      $ gcc squeeze.c -o squeeze
 
-  VSK@DESKTOP-8LMS4JT MINGW64 ~
+
+     VSK@DESKTOP-8LMS4JT MINGW64 ~
+
+     $ ./squeeze
+
+     Original string: Hello, world!
+
+     Squeezed string: Hell, wrld!
+
+     VSK@DESKTOP-8LMS4JT MINGW64 ~
