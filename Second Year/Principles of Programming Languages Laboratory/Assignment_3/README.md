@@ -33,7 +33,6 @@ and demonstrate how parameters are passed using pass by value.
 
     disassemble
 
-    You will see the assembly code for the factorial function.
 
     Dump of assembler code for function factorial:
 
