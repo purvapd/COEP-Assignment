@@ -17,16 +17,16 @@ an empty set, insert an element into set, do a union of two sets and return resu
 
 ### Run the program.
 
-  VSK@DESKTOP-8LMS4JT MINGW64 ~
-  
-  $ gcc link.c -o link
+      VSK@DESKTOP-8LMS4JT MINGW64 ~
 
-  VSK@DESKTOP-8LMS4JT MINGW64 ~
-  
-  $ ./link
-  
-  Set 1: {3, 2, 1}
-  
-  Set 2: {4, 3, 2}
-  
-  Set 3 (union of set 1 and set 2): {4, 1, 2, 3}
+      $ gcc link.c -o link
+
+      VSK@DESKTOP-8LMS4JT MINGW64 ~
+
+      $ ./link
+
+      Set 1: {3, 2, 1}
+
+      Set 2: {4, 3, 2}
+
+      Set 3 (union of set 1 and set 2): {4, 1, 2, 3}
