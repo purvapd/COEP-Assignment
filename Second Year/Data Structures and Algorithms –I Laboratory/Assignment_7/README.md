@@ -19,7 +19,7 @@ out, but the queue uses only a 'head' pointer and not a 'tail pointer.
     - queue_create, queue_destroy, queue_enqueue, and queue_dequeue - that allow you to create a new queue, add elements to the 
     end of the queue, remove elements from the front of the queue, and destroy the queue and free its memory.
 
-### Code_2 :- main.c
+### Code_3 :- main.c
   
     main.c is a source file that contains the entry point of the program. In this file, we have included the queue.h header 
     file to use the queue_create, queue_destroy, queue_enqueue, and queue_dequeue functions implemented in the queue.c source file.
