@@ -22,3 +22,29 @@ Now, you can use gcc to compile this C program with different options:
      
      
 ### Run the program.
+
+ 1.  -S option: 
+  
+    VSK@DESKTOP-8LMS4JT MINGW64 ~
+    
+    $ gcc -s example.c -o example
+
+    VSK@DESKTOP-8LMS4JT MINGW64 ~
+    
+    $ ./example
+    
+    Sum: 15
+
+  2. --save-temps option: 
+
+    VSK@DESKTOP-8LMS4JT MINGW64 ~
+    
+    $ gcc --save-temps example.c -o example
+
+    VSK@DESKTOP-8LMS4JT MINGW64 ~
+    
+    $ ./example
+    
+    Sum: 15
+
+
