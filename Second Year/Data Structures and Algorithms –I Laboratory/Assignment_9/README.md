@@ -7,7 +7,7 @@ Implement a data type to represent a Polynomial with the operations like create 
 polynomial, insert an entry into polynomial, add two polynomials and return the result as a 
 polynomial, evaluate a polynomial, etc. 
 
-### Code_1 :- histogram.c
+### Code_1 :- poly.c
     
     This implementation includes the following operations:
     - `createEmptyPolynomial`: creates an empty polynomial with no terms.
