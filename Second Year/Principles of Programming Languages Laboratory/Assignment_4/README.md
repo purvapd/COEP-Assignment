@@ -7,7 +7,7 @@
 Explain how pass by reference works, using assembly code generated using g++ -S on a 
 C++ program. 
 
-### Code_1 :- example.c
+### Code_1 :- swap.cpp
 
 	In C++, pass by reference is a mechanism that allows a function to access and modify the original value of a variable, rather than creating a copy of the value. This   can be achieved using pointers or references. 
 	
