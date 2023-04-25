@@ -1,5 +1,5 @@
 
-# Assignment_1.a
+# Assignment_7
 
 ## Problem Statement:-
 
@@ -9,9 +9,9 @@ out, but the queue uses only a 'head' pointer and not a 'tail pointer.
 
 ### Code_1 :- queue.h
 
-  The queue.h file is a header file that contains declarations of functions and types used in the 
-  implementation of a queue. It cannot be run directly, but rather needs to be included in a C source file (e.g. queue.c) 
-  that defines the implementation of the functions declared in queue.h.
+    The queue.h file is a header file that contains declarations of functions and types used in the 
+    implementation of a queue. It cannot be run directly, but rather needs to be included in a 
+    C source file (e.g. queue.c) that defines the implementation of the functions declared in queue.h.
 
 ### Code_2 :- queue.c
 
