@@ -17,12 +17,13 @@ The program exits with a return code of 0 using a system call.
 
 ### Run the Program- Code_1:- factorial.asm
 
-	# Assemble the code	
-  	nasm -f elf32 factorial.asm -o factorial.o
+```bash
+# Assemble the code	
+nasm -f elf32 factorial.asm -o factorial.o
 
-	# Link the object file	
-  	ld -m elf_i386 factorial.o -o factorial
+# Link the object file	
+ld -m elf_i386 factorial.o -o factorial
 
-	# Run the executable:	
-  	./factorial
+# Run the executable:	
+./factorial
 
