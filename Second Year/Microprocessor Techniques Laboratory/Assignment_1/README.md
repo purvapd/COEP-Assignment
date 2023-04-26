@@ -31,3 +31,8 @@ Please note that actual implementation details may vary depending on the specifi
 # Example Python Code with Syntax Highlighting and Line Numbers
 
 ```python
+def greet(name):
+    """This function greets the person passed in as a parameter."""
+    print("Hello, " + name + ". How are you doing today?")
+
+greet("John")
