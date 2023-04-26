@@ -9,9 +9,14 @@ variables with public or private access specifies.
 
 ### Code_1 :- animal.cpp
 
-		In this program, we have defined three classes: Animal, Dog, and Cat, Elephant, Fish. Animal is the base class with a constructor, destructor, and a public method to make a sound. Dog and Cat, Elephant, Fish are derived classes from Animal with their own constructors, destructors, and methods to make specific sounds (bark for Dog and meow for Cat and so on). The Animal class has protected member variables for name and age, which can be accessed by the derived classes. Dog, Cat, Elephant, Fish classes have private member variables for breed and color, respectively, which can only be accessed within their own classes.
+	In this program, we have defined three classes: Animal, Dog, and Cat, Elephant, Fish. Animal is the base 
+	class with a constructor, destructor, and a public method to make a sound. Dog and Cat, Elephant, Fish are derived classes from 
+	Animal with their own constructors, destructors, and methods to make specific sounds (bark for Dog and meow for Cat and so on). 
+	The Animal class has protected member variables for name and age, which can be accessed by the derived classes. Dog, Cat, Elephant,
+	Fish classes have private member variables for breed and color, respectively, which can only be accessed within their own classes.
 
-		In the main function, we create objects of Dog, Cat, Elephant, Fish and call their respective methods to make sounds. When the program is executed, it will output messages indicating the creation and destruction of objects, along with the sounds made by the animals.
+	In the main function, we create objects of Dog, Cat, Elephant, Fish and call their respective methods to make sounds. When the program is
+	executed, it will output messages indicating the creation and destruction of objects, along with the sounds made by the animals.
 
 ### Run the program.
 
