@@ -26,10 +26,10 @@ Please note that actual implementation details may vary depending on the specifi
 # Assemble the code
 nasm -f elf32 block_data_transfer.asm -o block_data_transfer.o
 
-```bash
+
 # Link the object file
 ld -m elf_i386 block_data_transfer.o -o block_data_transfer
 
-```bash
+
 # Run the executable:
 ./block_data_transfer
