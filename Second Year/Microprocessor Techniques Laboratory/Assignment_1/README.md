@@ -21,18 +21,15 @@ Please note that actual implementation details may vary depending on the specifi
 
 ### Run the Program
 
-	```nasm -f elf32 block_data_transfer.asm -o block_data_transfer.o
 
-	ld -m elf_i386 block_data_transfer.o -o block_data_transfer
-
-	./block_data_transfer
-	
-	
 ```bash
-# Example Command Line Commands
+# Assemble the code
+nasm -f elf32 block_data_transfer.asm -o block_data_transfer.o
 
-# Create a new directory
-mkdir my_directory
+```bash
+# Link the object file
+ld -m elf_i386 block_data_transfer.o -o block_data_transfer
 
-# Change to the directory
-cd my_directory
+```bash
+# Run the executable:
+./block_data_transfer
