@@ -26,13 +26,14 @@ Please note that actual implementation details may vary depending on the specifi
 	ld -m elf_i386 block_data_transfer.o -o block_data_transfer
 
 	./block_data_transfer
-
+	
+	
 ```python
-# Example Python Code with Syntax Highlighting and Line Numbers
+# Example Python Code
 
-```python
 def greet(name):
     """This function greets the person passed in as a parameter."""
     print("Hello, " + name + ". How are you doing today?")
 
 greet("John")
+
