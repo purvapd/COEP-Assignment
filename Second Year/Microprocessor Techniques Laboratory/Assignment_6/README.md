@@ -22,6 +22,7 @@ After printing the Fibonacci series, a newline character is printed, and the pro
 
 ### Run the Program- Code_1:- fibonacci.asm
 
+	```bash
 	# Assemble the code
 	nasm -f elf32 fibonacci.asm -o fibonacci.o
 
