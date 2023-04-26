@@ -28,12 +28,11 @@ Please note that actual implementation details may vary depending on the specifi
 	./block_data_transfer
 	
 	
-```python
-# Example Python Code
+```bash
+# Example Command Line Commands
 
-def greet(name):
-    """This function greets the person passed in as a parameter."""
-    print("Hello, " + name + ". How are you doing today?")
+# Create a new directory
+mkdir my_directory
 
-greet("John")
-
+# Change to the directory
+cd my_directory
