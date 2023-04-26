@@ -8,7 +8,7 @@ course is floated by a teacher from a particular department. Various students wi
 enroll for multiple courses (maximum five per course) provided the student clears the prerequisite courses. A teacher can 
 teach at the most two courses in a semester.
 
-### Code_1 :- division.cpp
+### Code_1 :-course_tracking.pl
 
 	To run the Prolog code, you will need a Prolog interpreter or environment installed on your system. Here are the 
 	general steps to run the code:
