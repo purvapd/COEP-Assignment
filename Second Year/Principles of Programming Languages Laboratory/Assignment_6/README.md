@@ -8,62 +8,62 @@ square, polygon, and octagon. Circle, triangle, square, polygon, octagon are chi
 
 ### Code_1 :- geometry.cpp
 
-    The provided C++ code implements a program that defines various geometric shapes as classes, including Circle, Triangle, Square, Polygon, and Octagon. 
-    These classes are derived from a base class called Shape. The Circle, Triangle, and Square classes directly inherit from the Shape class, while the 
-    Polygon class inherits from Shape and serves as a base class for the Octagon class.
+    The provided C++ code implements a program that defines various geometric shapes as classes, including Circle, Triangle, Square, 
+    Polygon, and Octagon. These classes are derived from a base class called Shape. The Circle, Triangle, and Square classes directly 
+    inherit from the Shape class, while the Polygon class inherits from Shape and serves as a base class for the Octagon class.
 
 ### Run the program.
 
-		VSK@DESKTOP-8LMS4JT MINGW64 ~
-		
-		$ g++ geometry.cpp -o geometry
+	VSK@DESKTOP-8LMS4JT MINGW64 ~
 
-		VSK@DESKTOP-8LMS4JT MINGW64 ~
-		
-		$ ./geometry
+	$ g++ geometry.cpp -o geometry
 
-		
-		Circle:
-		
-		Radius: 5
-		
-		Area: 78.5375
+	VSK@DESKTOP-8LMS4JT MINGW64 ~
+
+	$ ./geometry
 
 
+	Circle:
 
-		Triangle:
+	Radius: 5
 
-		Base: 3
-
-		Height: 4
-
-		Area: 6
+	Area: 78.5375
 
 
 
-		Square:
+	Triangle:
 
-		Side: 6
+	Base: 3
 
-		Area: 36
+	Height: 4
 
-
-
-		Polygon:
-
-		Number of sides: 5
-
-		Side length: 7
-
-		Area: 84.3067
+	Area: 6
 
 
 
-		Octagon:
+	Square:
 
-		Side length: 8
+	Side: 6
 
-		Area: 309.029
+	Area: 36
+
+
+
+	Polygon:
+
+	Number of sides: 5
+
+	Side length: 7
+
+	Area: 84.3067
+
+
+
+	Octagon:
+
+	Side length: 8
+
+	Area: 309.029
 
 
 
