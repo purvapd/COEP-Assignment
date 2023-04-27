@@ -6,7 +6,7 @@
 Finding the smallest and largest number from a given list.
 
 
-### Code_1 :- block_data_transfer.asm
+### Code_1 :- asm_program.asm
 
 The given assembly code is for the x86 microprocessor and finds the smallest and largest numbers from a given list of integers. 
 The list of integers is assumed to be stored in an array in memory, and the length of the array is known beforehand.
