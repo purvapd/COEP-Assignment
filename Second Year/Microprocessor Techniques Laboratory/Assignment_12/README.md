@@ -63,7 +63,7 @@ copy operation is complete.
 string is found to be a palindrome, the program jumps to the "PALINDROME" label, and if not, it jumps to the "NOT_PALINDROME" label. At the end
 of the program, it jumps to the "END_PROGRAM" label to terminate the program.
 
-### Run the Program- code:-  <File Name>.asm
+### Run the Program- code:- File Name.asm
 
 	# Assemble the code
 	nasm -f elf32 <File Name>.asm -o <File Name>.o
