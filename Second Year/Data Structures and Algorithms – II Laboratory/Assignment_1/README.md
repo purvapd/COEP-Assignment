@@ -48,12 +48,12 @@ before the right child.
 
               5 five
 
-The maximum value in the tree is 35.
+        The maximum value in the tree is 35.
 
-The string thirty is not in the tree.
+        The string thirty is not in the tree.
 
-Preorder of the Tree is :-
+        Preorder of the Tree is :-
 
-20 twenty 10 ten 5 five 15 fifteen 30 thirty 25 twenty-five 35 thirty-five
+        20 twenty 10 ten 5 five 15 fifteen 30 thirty 25 twenty-five 35 thirty-five
 
 
