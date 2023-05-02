@@ -1,0 +1,5 @@
+NewYork, Boston, 215
+Boston, Washington, 396
+NewYork, Chicago, 787
+Chicago, LosAngeles, 2015
+Washington, Miami, 923
